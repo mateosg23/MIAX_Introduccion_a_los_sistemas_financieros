@@ -57,3 +57,25 @@ Se implementan dos enfoques:
 ---
 
 ## 📂 Estructura del proyecto
+├── Arbitrage study in BME - Mateo Santos.ipynb
+├── data/
+│ ├── raw/
+│ └── processed/
+├── README.md
+
+---
+
+## 📌 Resultados
+El análisis permite:
+- Comprender la dinámica intradía de las acciones.
+- Detectar momentos donde pueden surgir ineficiencias de precios.
+- Evaluar la complejidad práctica del arbitraje en mercados reales.
+
+Este estudio pone de manifiesto las limitaciones operativas (liquidez, latencia, estado del mercado) que afectan a estrategias teóricas de arbitraje.
+
+---
+
+## 👤 Autor
+**Mateo Santos**
+
+Proyecto académico enfocado al análisis cuantitativo de mercados financieros y renta variable.
